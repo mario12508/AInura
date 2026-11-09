@@ -1,0 +1,324 @@
+{
+  "version": "1.1.0",
+  "unit": "one complete recipe per chunk",
+  "books": [
+    {
+      "file": "190836.fb2",
+      "book": "Кулинарный календарь",
+      "authors": [
+        "Светлана Колосова"
+      ],
+      "profile": "calendar",
+      "file_sha256": "cf1db5e9362fce4e59168849d1eb89b2ccced22bcc8c5cd0527eec5f2e249443",
+      "body_blocks": 10016,
+      "recipe_occurrences": 1856,
+      "duplicates": 0,
+      "excluded_segments": 1384,
+      "excluded_reasons": {
+        "heading_only": 1383,
+        "outside_recipe_boundaries": 1
+      },
+      "reference_subtrees_with_child_titles": [],
+      "max_chunk_chars": 889,
+      "long_chunks_over_8000_chars": 0,
+      "source_coverage": {
+        "missing_blocks": 0,
+        "overlapping_blocks": 0
+      },
+      "sample_titles": [
+        "ОРИГИНАЛЬНЫЙ ПАШТЕТ В ТАРТАЛЕТКАХ",
+        "БОРЩ С ВЕТЧИНОЙ",
+        "ЗАКУСКА ИЗ ПОМИДОРОВ В ЖЕЛЕ",
+        "САЦИВИ",
+        "НАЛИМ С ГРИБАМИ",
+        "МОЛОЧНЫЙ СУП С ТЫКВОЙ",
+        "СУП-ПЮРЕ ИЗ КУРИЦЫ",
+        "САЛАТ ИЗ ОВОЩЕЙ И КВАШЕНОЙ КАПУСТЫ"
+      ],
+      "longest_chunks": [
+        {
+          "title": "СОЛЯНКА МЯСНАЯ С КАПУСТОЙ",
+          "chars": 889
+        },
+        {
+          "title": "ФАРШИРОВАННАЯ КУРИЦА",
+          "chars": 825
+        },
+        {
+          "title": "ПИРОГ «УТОПЛЕННИК» С КАПУСТОЙ",
+          "chars": 805
+        },
+        {
+          "title": "РУЛЕТ С МАКАРОНАМИ",
+          "chars": 784
+        },
+        {
+          "title": "САЛАТ «ХРУСТЯЩИЙ»",
+          "chars": 781
+        }
+      ]
+    },
+    {
+      "file": "228978.fb2",
+      "book": "Лучшие овощные блюда для семейного стола. Салаты, супы, вторые блюда, консервирование",
+      "authors": [
+        "Ирина Геннадьевна Константинова"
+      ],
+      "profile": "vegetables",
+      "file_sha256": "90819c062974ba2c5ee2ad718bdfc8b8f05d24f42bcaafc6402e4d81b32f2dbe",
+      "body_blocks": 6064,
+      "recipe_occurrences": 1347,
+      "duplicates": 0,
+      "excluded_segments": 3,
+      "excluded_reasons": {
+        "reference_leaf": 1,
+        "reference_section": 1,
+        "outside_recipe_boundaries": 1
+      },
+      "reference_subtrees_with_child_titles": [],
+      "max_chunk_chars": 5346,
+      "long_chunks_over_8000_chars": 0,
+      "source_coverage": {
+        "missing_blocks": 0,
+        "overlapping_blocks": 0
+      },
+      "sample_titles": [
+        "Салат из картофеля с зеленым луком",
+        "Салат картофельный с горчицей",
+        "Салат «Наслаждение»",
+        "Салат из картофеля с солеными огурцами",
+        "Салат картофельный с зеленью",
+        "Салат картофельный с квашеной капустой",
+        "Салат картофельный с квашеной капустой и солеными огурцами",
+        "Салат из картофеля и овощей «Зимний»"
+      ],
+      "longest_chunks": [
+        {
+          "title": "Бутерброд «Студенческий»",
+          "chars": 5346
+        },
+        {
+          "title": "Соление огурцов в стеклянной таре",
+          "chars": 4066
+        },
+        {
+          "title": "Баклажаны в томатном соусе с овощным фаршем",
+          "chars": 2754
+        },
+        {
+          "title": "Салат из морской капусты с рыбой",
+          "chars": 2549
+        },
+        {
+          "title": "Лютеница",
+          "chars": 2546
+        }
+      ]
+    },
+    {
+      "file": "386182.fb2",
+      "book": "Китайская, японская, тайская кухни",
+      "authors": [
+        "Н. А. Перепелкина"
+      ],
+      "profile": "asian",
+      "file_sha256": "0c0518a6877090a5e26a19fba17ee53bdff36fc2005811579168e2e18e0c529d",
+      "body_blocks": 12417,
+      "recipe_occurrences": 758,
+      "duplicates": 0,
+      "excluded_segments": 48,
+      "excluded_reasons": {
+        "section_introduction": 36,
+        "reference_section": 9,
+        "reference_leaf": 3
+      },
+      "reference_subtrees_with_child_titles": [
+        {
+          "title": "Иллюстрации",
+          "child_titles": [
+            "Салат с креветками",
+            "Салат с курицей",
+            "Баклажаны в соевом соусе с имбирем",
+            "Китайский омлет",
+            "Чайные яйца",
+            "Крепкий куриный бульон",
+            "Куриный суп",
+            "Куриный суп со спаржей",
+            "Острая хрустящая лапша",
+            "Кантонская курица с имбирно-луковым соусом",
+            "Жареная утка с луком-пореем",
+            "Курица по-императорски"
+          ]
+        }
+      ],
+      "max_chunk_chars": 2457,
+      "long_chunks_over_8000_chars": 0,
+      "source_coverage": {
+        "missing_blocks": 0,
+        "overlapping_blocks": 0
+      },
+      "sample_titles": [
+        "Салат «дружба»",
+        "Салат из белокочанной капусты с перцем",
+        "Салат из вермишели со свининой",
+        "Салат-коктейль «шанхай»",
+        "Салат из крабов с огурцом",
+        "Салат из цветной капусты",
+        "Острая капуста",
+        "Салат из редиса с морковью"
+      ],
+      "longest_chunks": [
+        {
+          "title": "Иосенабе с морепродуктами и грибами",
+          "chars": 2457
+        },
+        {
+          "title": "Иосенабе с рыбой и кальмаром",
+          "chars": 2389
+        },
+        {
+          "title": "Жареный рис с соленым сыром",
+          "chars": 2227
+        },
+        {
+          "title": "Саба-суси из макрели",
+          "chars": 2071
+        },
+        {
+          "title": "Красное карри из курицы с побегали бамбука",
+          "chars": 2070
+        }
+      ]
+    },
+    {
+      "file": "464666.fb2",
+      "book": "Мужчина на кухне",
+      "authors": [
+        "Леонид Иванович Зданович"
+      ],
+      "profile": "men",
+      "file_sha256": "31220829e0a5e65ac6eebaf80a92459804d7a7ba55f7244715aa5c4b2912ef63",
+      "body_blocks": 4360,
+      "recipe_occurrences": 1026,
+      "duplicates": 0,
+      "excluded_segments": 41,
+      "excluded_reasons": {
+        "section_introduction": 33,
+        "reference_section": 6,
+        "reference_leaf": 2
+      },
+      "reference_subtrees_with_child_titles": [],
+      "max_chunk_chars": 4729,
+      "long_chunks_over_8000_chars": 0,
+      "source_coverage": {
+        "missing_blocks": 0,
+        "overlapping_blocks": 0
+      },
+      "sample_titles": [
+        "Столовая зелень",
+        "Сушеная зелень",
+        "Салат зеленый",
+        "Салат зеленый в сметане с яйцами",
+        "Салат зеленый с огурцами",
+        "Салат из лука зеленого в сметане",
+        "Смесь из лука зеленого с яйцом",
+        "Салат из свежих огурцов"
+      ],
+      "longest_chunks": [
+        {
+          "title": "Сушеная зелень",
+          "chars": 4729
+        },
+        {
+          "title": "Классический борщ",
+          "chars": 4680
+        },
+        {
+          "title": "Квашение капусты",
+          "chars": 4567
+        },
+        {
+          "title": "Несколько самых общих правил приготовления шашлыка",
+          "chars": 3624
+        },
+        {
+          "title": "Солянки",
+          "chars": 3540
+        }
+      ]
+    },
+    {
+      "file": "480554.fb2",
+      "book": "1000 рецептов супов",
+      "authors": [
+        "Виктория Михайловна Рошаль"
+      ],
+      "profile": "soups",
+      "file_sha256": "4a5a0535c844a51d90d4c300c900e5bd49be4eb6caf7c3d6036f46f0f58b682d",
+      "body_blocks": 4541,
+      "recipe_occurrences": 956,
+      "duplicates": 0,
+      "excluded_segments": 130,
+      "excluded_reasons": {
+        "section_introduction": 128,
+        "reference_section": 2
+      },
+      "reference_subtrees_with_child_titles": [
+        {
+          "title": "ОСОБЕННОСТИ ПРИГОТОВЛЕНИЯ ПРОЗРАЧНЫХ И ЗАПРАВОЧНЫХ СУПОВ",
+          "child_titles": [
+            "Прозрачные супы",
+            "Заправочные супы"
+          ]
+        }
+      ],
+      "max_chunk_chars": 2338,
+      "long_chunks_over_8000_chars": 0,
+      "source_coverage": {
+        "missing_blocks": 0,
+        "overlapping_blocks": 0
+      },
+      "sample_titles": [
+        "Бульон из костей (вариант 1)",
+        "Бульон из костей (вариант 2)",
+        "Бульон костный белый",
+        "Бульон костный желтый",
+        "Бульон костный коричневый",
+        "Бульон мясокостный",
+        "Мясной бульон (вариант 1)",
+        "Мясной бульон (вариант 2)"
+      ],
+      "longest_chunks": [
+        {
+          "title": "Суп из раков и рыбы",
+          "chars": 2338
+        },
+        {
+          "title": "Картофельный суп-пюре с пирожками",
+          "chars": 2304
+        },
+        {
+          "title": "Рассольник с жареными пирожками из кислого теста",
+          "chars": 2190
+        },
+        {
+          "title": "Желе мясное",
+          "chars": 2151
+        },
+        {
+          "title": "Мясной зеленый суп с крокетами из яиц",
+          "chars": 2145
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "status": "ok",
+  "totals": {
+    "unique_chunks": 5943,
+    "recipe_occurrences": 5943,
+    "excluded_segments": 1606,
+    "books_processed": 5,
+    "books_failed": 0
+  }
+}

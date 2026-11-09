@@ -1,0 +1,3 @@
+# Offline unit tests need no torch, transformers, Ollama or GPU.
+numpy>=1.26,<3
+

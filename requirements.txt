@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+torch>=2.3,<3
+transformers>=4.45,<5
+sentencepiece>=0.2,<0.3
+
